@@ -1,0 +1,15 @@
+.general{
+    text-align: center;
+    display: inline;
+    width: 1000px;
+    font-size: x-large;
+    
+}
+
+img{
+    float: left;
+}
+
+html{
+    background-color: rgb(74, 73, 73);
+}

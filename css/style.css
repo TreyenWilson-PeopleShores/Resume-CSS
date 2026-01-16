@@ -16,4 +16,9 @@ html{
 
 .general{
     justify-content: left;
+    display: flex;
+}
+
+.information{
+    margin-left: auto;
 }

@@ -1,7 +1,7 @@
 .name{
     text-align: center;
     display: flex;
-    width: 800px;
+    width: 830px;
     font-size: x-large;
     margin-left: 20px;
     
@@ -22,16 +22,21 @@ html{
 
 
 
-.information{
+.info-div{
     display: inline;
+    
+}
+
+.information{
+    display: inline-flex;
     width: 300;
-    height: 200px;
+    height: 194px;
     
 }
 .summary{
-    display: inline;
+    display: inline-flex;
     width: 500px;
-    height: 206px;
+    height: 200px
     margin-right: 50px;
 }
 

@@ -1,7 +1,7 @@
 .name{
     text-align: center;
     display: flex;
-    width: 1150px;
+    width: 1145px;
     font-size: x-large;
     margin-left: 20px;
     
@@ -36,7 +36,7 @@ html{
 .summary{
     display: inline-flex;
     width: 500px;
-    height: 200px
+    height: 194px;
     margin-right: 50px;
 }
 

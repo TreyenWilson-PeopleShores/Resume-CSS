@@ -1,4 +1,4 @@
-.general{
+.name{
     text-align: center;
     display: inline;
     width: 1000px;
@@ -12,4 +12,8 @@ img{
 
 html{
     background-color: rgb(74, 73, 73);
+}
+
+.general{
+    justify-content: left;
 }

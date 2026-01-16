@@ -1,8 +1,9 @@
 .name{
     text-align: center;
-    display: inline;
-    width: 1000px;
+    display: flex;
+    width: 800px;
     font-size: x-large;
+    margin-left: 20px;
     
 }
 
@@ -11,24 +12,39 @@ img{
 }
 
 html{
-    background-color: rgb(74, 73, 73);
+    background-color: rgb(84, 81, 81);
 }
 
 .secton1{
-    justify-content: left;
     display: flex;
+
 }
 
+
+
 .information{
-    margin-left: auto;
+    display: inline;
+    width: 300;
+    height: 200px;
+    
+}
+.summary{
+    display: inline;
+    width: 500px;
+    height: 206px;
+    margin-right: 50px;
 }
 
 li{
     color: rgb(163, 150, 150);
 }
 
-p{
+i{
     color: azure;
+}
+
+p{
+    color: rgb(163, 150, 150)
 }
 
 i{
@@ -41,4 +57,21 @@ pre{
 h3, h2{
     color: azure;
     font-weight: bold;
+}
+
+.subtypes{
+    height: 50px; text-align: center; background-color: rgb(79, 73, 65);
+    border-radius: 90px;
+}
+
+.section2{
+    display: flex;
+    justify-content: left;
+
+    
+}
+.section3{
+    display: flex;
+    
+    margin-top: auto;
 }

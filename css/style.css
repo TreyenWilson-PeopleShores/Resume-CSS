@@ -14,11 +14,31 @@ html{
     background-color: rgb(74, 73, 73);
 }
 
-.general{
+.secton1{
     justify-content: left;
     display: flex;
 }
 
 .information{
     margin-left: auto;
+}
+
+li{
+    color: rgb(163, 150, 150);
+}
+
+p{
+    color: azure;
+}
+
+i{
+    font-weight: bold;
+}
+
+pre{
+    color: rgb(163, 150, 150)
+}
+h3, h2{
+    color: azure;
+    font-weight: bold;
 }
